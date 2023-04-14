@@ -6,4 +6,4 @@
 
 ## Tarefas:
 
-- [] Exercício P6 - Temperatura
+- [ ] Exercício P6 - Temperatura
