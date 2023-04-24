@@ -6,4 +6,4 @@
 
 ## Tarefas:
 
-- [ ] Exercício P6 - Temperatura
+- [x] Exercício P8 - Visualização de Séries Temporais [[link resolução](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/ex_p8_vis_serie_temporal.ipynb)]
