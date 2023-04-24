@@ -2,8 +2,8 @@
 
 ## Objetivo:
 
-- Compreender os indicadores mais relevantes sobre a produtividade dos funcion[arios de uma empresa de contabilidade.
-- An[alise de dados identificando padrões.
+- Compreender os indicadores mais relevantes sobre a produtividade dos funcionários de uma empresa de contabilidade.
+- Análise de dados identificando padrões.
 - Criação de **dashboard**
 - Consolidação de conhecimentos adquiridos na disciplina de **Visualização de Informação**.
 
