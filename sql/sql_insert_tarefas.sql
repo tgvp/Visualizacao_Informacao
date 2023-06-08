@@ -1,0 +1,15 @@
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (1, 'Lançamento Documentos', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (2, 'Validação', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (3, 'Gestão Comercial', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (4, 'Reuniões de Equipa', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (5, 'Reuniões de Coordenação', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (6, 'Preenchimento de Documentos', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (7, 'Fecho do Ano', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (8, 'Fecho do Mês', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (9, 'Declarações do IVA', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (10, 'Processamento de Salários', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (11, 'Orçamento Anual', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (12, 'Processos Recrutamento', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (13, 'Reuniões Clientes', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (14, 'Atendimento Telf. / Email', 'nan');
+INSERT INTO Tarefas (id_tarefa, nome, descricao) VALUES (15, 'Contactos Estado', 'nan');
