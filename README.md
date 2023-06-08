@@ -14,7 +14,7 @@
   - [x] Dataset validado em: [data/dataset.csv](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/dataset.csv)
   - [x] Dataset original em: [Produtividade.xlsx](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/produtividade.xlsx)
   - [x] Dashboard em: [Dashboard](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/dashboard.py)
-  - [ ] Relatório [em progresso]
+  - [x] Relatório em: [Relatório](https://github.com/tgvp/Visualizacao_Informacao/blob/main/relatorio.pdf)
 
 ## Tarefas:
 - [x] Exercício P3 - Logins por Dispositivo [[link resolução](https://github.com/tgvp/Visualizacao_Informacao/blob/main/aulas/ex_p3_logins_dispositivo.ipynb)]
