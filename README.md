@@ -16,6 +16,7 @@
   - Consolidação e validação dos dados em: [Reverse Engineering](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/Reverse_Engineering.ipynb)
   - Classes de apoio definidas para conexão com banco de dados em: [Database definition](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/databases_connections.py)
   - Ficheiro de configuração para conexão com database em: [data/db_config.json](https://github.com/tgvp/Visualizacao_Informacao/blob/main/config/db_config.json)
+  - SQL Queries de criação e inserção na base de dados adicionados em: [/sql](https://github.com/tgvp/Visualizacao_Informacao/tree/main/sql)
   - Dataset validado em: [data/dataset.csv](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/dataset.csv)
   - Dataset original em: [Produtividade.xlsx](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/produtividade.xlsx)
   - Dashboard em: [Dashboard](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/dashboard.py)
