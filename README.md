@@ -18,5 +18,7 @@
   - Ficheiro de configuração para conexão com database em: [data/db_config.json](https://github.com/tgvp/Visualizacao_Informacao/blob/main/config/db_config.json)
   - Dataset validado em: [data/dataset.csv](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/dataset.csv)
   - Dataset original em: [Produtividade.xlsx](https://github.com/tgvp/Visualizacao_Informacao/blob/main/data/produtividade.xlsx)
+  - Dashboard em: [Dashboard](https://github.com/tgvp/Visualizacao_Informacao/blob/main/src/dashboard.py)
+  - Relatório [em progresso]
 
 
